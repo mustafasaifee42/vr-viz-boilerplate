@@ -2,8 +2,7 @@
 
 This git repo provides a boilerplate for creating data visualization in VR using VR-Viz package. 
 
-VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.
-
+__VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.__
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
