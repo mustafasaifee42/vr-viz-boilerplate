@@ -1,6 +1,6 @@
 # VR-Viz Boilerplate
 
-This git repo provides a boilerplate for creating data visualization in VR using VR-Viz package. 
+This git repo provides a boilerplate for creating data visualization in VR using __[VR-Viz](https://github.com/mustafasaifee42/VR-Viz)__  package. 
 
 __VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.__
 
@@ -39,7 +39,7 @@ In the browser you should be able to see a barchart.
 
 ![BarGraph](./imgs/bargraph.PNG)
 
-TO enter the VR mode click the Enter VR Mode icon in the bottom right in the browser.
+To enter the VR mode click the Enter VR Mode icon in the bottom right in the browser.
 
 ## Editing the Boilerplate
 
