@@ -1,4 +1,4 @@
-#VR-Viz Boilerplate
+# VR-Viz Boilerplate
 
 This git repo provides a boilerplate for creating data visualization in VR using VR-Viz package. 
 
