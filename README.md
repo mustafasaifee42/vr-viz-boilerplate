@@ -1,9 +1,8 @@
-#VR-Viz Boilerplate
+# VR-Viz Boilerplate
 
-This git repo provides a boilerplate for creating data visualization in VR using VR-Viz package. 
+This git repo provides a boilerplate for creating data visualization in VR using __[VR-Viz](https://github.com/mustafasaifee42/VR-Viz)__  package. 
 
-VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.
-
+__VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.__
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -40,7 +39,7 @@ In the browser you should be able to see a barchart.
 
 ![BarGraph](./imgs/bargraph.PNG)
 
-TO enter the VR mode click the Enter VR Mode icon in the bottom right in the browser.
+To enter the VR mode click the Enter VR Mode icon in the bottom right in the browser.
 
 ## Editing the Boilerplate
 
@@ -55,3 +54,29 @@ In the project directory, in public folder edit `data.csv` file with new data to
 ### Updating the graph
 
 In the project directory, in src folder edit `App.js` file. Read the detail documention [here](https://github.com/mustafasaifee42/VR-Viz) how `App.js` can be edited to use a specific visualization and how these visualizations can be edited.
+
+__Supported Visualizations__
+* [3D Bar Graph](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/BarGraph.md)
+* [3D Stacked Bar Graph](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/StackedBarGraph.md)
+* [3D Lollipop Chart](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/LollipopChart.md)
+* [3D Rectangle Chart](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/RectangleChart.md)
+* [3D Scatter Plot / 3D Bubble Chat](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ScatterPlot.md)
+* [3D Connected Scatter Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ConnectedScatterPlot.md)
+* [3D Mesh Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/MeshPlot.md)
+* [Waterfall Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/WaterFallPlot.md)
+* [3D Time Series](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/TimeSeries.md)
+* [3D Contour Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ContourPlot.md)
+* [3D Parametric Curve Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ParametricCurvePlot.md)
+* [3D Surface Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/SurfacePlot.md)
+* [3D Parametric Surface Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ParametricSurfacePlot.md)
+* [3D Contour Map](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ContourMap.md)
+* [3D Point Cloud](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/PointCloud.md)
+* [3D Force Directed Graph](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/ForceDirectedGraph.md)
+* [3D Prism Map](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/PrismMap.md)
+* [3D Map Bar Graph](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/MapBarChart.md)
+* [3D Map Stacked Bar Graph](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/MapStackedBarChart.md)
+* [MapTimeBars](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/MapTimeBars.md)
+* [MapWithIsoLines](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/MapWithIsoLines.md)
+* [3D Flow Map](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/FlowMap.md)
+* [3D TreeMap](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/TreeMap.md)
+* [3D Spiral Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/SpiralPlot.md)
