@@ -8,10 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To see the full documentation regarding that, go [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). The salient points are reproduced below, along with important custom setup documentation.
 
-## Installation using NPM
-This project uses `npm`. Install it as described here [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you haven't already.
+## Installation using Yarn
+This project uses `yarn`. Install it as described here [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install) if you haven't already.
 
-To install this boilerplate, simply clone the repo and run `npm install`;
+To install this boilerplate, simply clone the repo and run `yarn install`;
 
 e.g.
 
