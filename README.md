@@ -17,13 +17,13 @@ e.g.
 
     git clone https://github.com/mustafasaifee42/vr-viz-boilerplate.git
     cd vr-viz-boilerplate
-    npm install
+    yarn
 
 ## Local Development
 
 In the project directory, you can run:
 
-### `npm run start`
+### `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
