@@ -11,7 +11,7 @@ __Git Repo for VR-Viz can be found [here](https://github.com/mustafasaifee42/VR-
 ## Installation using Yarn
 This project uses `yarn`. Install it as described here [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install) if you haven't already.
 
-To install this boilerplate, simply clone the repo and run `yarn install`;
+To install this boilerplate, simply clone the repo and run `yarn`;
 
 e.g.
 
