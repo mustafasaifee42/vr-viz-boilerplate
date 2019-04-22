@@ -4,9 +4,9 @@ This git repo provides a boilerplate for creating data visualization in VR using
 
 __VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.__
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+### Interactive examples can be seen and explored [here.](https://vr-viz.netlify.com)
 
-To see the full documentation regarding that, go [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). The salient points are reproduced below, along with important custom setup documentation.
+### Git Repo for VR-Viz can be found [here](https://github.com/mustafasaifee42/VR-Viz). 
 
 ## Installation using Yarn
 This project uses `yarn`. Install it as described here [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install) if you haven't already.
@@ -80,3 +80,9 @@ __Supported Visualizations__
 * [3D Flow Map](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/FlowMap.md)
 * [3D TreeMap](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/TreeMap.md)
 * [3D Spiral Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/SpiralPlot.md)
+
+## Note
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+To see the full documentation regarding that, go [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). The salient points are reproduced below, along with important custom setup documentation.
