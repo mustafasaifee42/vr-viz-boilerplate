@@ -4,9 +4,9 @@ This git repo provides a boilerplate for creating data visualization in VR using
 
 __VR-Viz is react component which combines React.js, D3.js and A-frame to create data visualization in VR.__
 
-### Interactive examples can be seen and explored [here.](https://vr-viz.netlify.com)
+__Interactive examples can be seen and explored [here](https://vr-viz.netlify.com).__
 
-### Git Repo for VR-Viz can be found [here](https://github.com/mustafasaifee42/VR-Viz). 
+__Git Repo for VR-Viz can be found [here](https://github.com/mustafasaifee42/VR-Viz).__ 
 
 ## Installation using Yarn
 This project uses `yarn`. Install it as described here [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install) if you haven't already.
