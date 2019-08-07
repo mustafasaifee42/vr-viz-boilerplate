@@ -81,6 +81,14 @@ __Supported Visualizations__
 * [3D TreeMap](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/TreeMap.md)
 * [3D Spiral Plot](https://github.com/mustafasaifee42/VR-Viz/blob/master/ReadMe/SpiralPlot.md)
 
+## Building the React App
+
+App need to build so the app can be uploaded on the server to build the app you can run:
+
+### `yarn run build`
+
+For building the app as a sub page in website, `homepage` parameter in __package.json__ needs to edited to the exact link otherwise the app expects to be run from the root directory of the webserver. For example `homepage: 'www.example.com/vr-app'` if the app need to uploaded at www.example.com/vr-app
+
 ## Note
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
