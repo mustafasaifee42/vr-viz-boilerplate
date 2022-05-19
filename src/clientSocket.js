@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const socket_io_client_1 = require("socket.io-client");
 const Avatar_1 = require("./Avatar");
 const PlayerList_1 = __importDefault(require("./PlayerList"));
-const SERVER_URL = "https://localhost:8000";
+const SERVER_URL = "https://10.38.23.80:8000";
 const INTERVAL = 50;
 var playerList = new PlayerList_1.default();
 const socket = (0, socket_io_client_1.io)(SERVER_URL);
