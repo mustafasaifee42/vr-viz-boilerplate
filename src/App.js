@@ -1,5 +1,8 @@
 import VRViz from "vr-viz";
 
+// collaboration
+import "./clientSocket.js";
+
 function App() {
   return (
     <VRViz
