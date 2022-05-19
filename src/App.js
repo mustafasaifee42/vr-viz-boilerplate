@@ -1,39 +1,21 @@
 import VRViz from "vr-viz";
 
-// collaboration
-import "./clientSocket.js";
-
 function App() {
-  return (
+  return (<a-scene>
+  <a-sky color="#333333"></a-sky>
+    <a-entity
+    movement-controls="speed: 1; fly: true;"
+    id="rig"
+    position="0 0 70"
+  >
+    <a-entity
+      cursor="rayOrigin: mouse;"
+      raycaster="far: 2; objects: .clickable;"
+    ></a-entity>
+    <a-camera id="camera"></a-camera>
+  </a-entity>
+
     <VRViz
-    scene={{
-      sky: {
-        style: {
-          color: "#333",
-          texture: false,
-        },
-      },
-      lights: [
-        {
-          type: "directional",
-          color: "#fff",
-          position: "0 1 1",
-          intensity: 1,
-          decay: 1,
-        },
-        {
-          type: "ambient",
-          color: "#fff",
-          intensity: 1,
-          decay: 1,
-        },
-      ],
-      camera: {
-        position: "10 5 12",
-        rotation: "0 0 0",
-      },
-      reloadPageOnExitVR: true,
-    }}
     graph={[
       {
         type: "WaterFallPlot",
@@ -137,7 +119,7 @@ function App() {
       },
     ]}
   />
-  );
+ </a-scene>);
 }
 
 export default App;
